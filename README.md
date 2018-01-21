@@ -1,4 +1,4 @@
 # first-step
 Training project
 
-ksekiname
+ksekiname kala
