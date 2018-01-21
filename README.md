@@ -2,3 +2,4 @@
 Training project
 
 ksekiname kala
+sigoura
